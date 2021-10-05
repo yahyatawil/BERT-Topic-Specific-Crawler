@@ -1,8 +1,15 @@
-# Topic-Spesific-Crawler
-This project is supervised by [Dr. Saed ALQARALEH](https://scholar.google.com.tr/citations?user=Pz8eE28AAAAJ&hl=en) and done by Yahya Tawil as a part of Data Mining and Knowledge Discovery course during my Master program. This is an implementation of a multiy thread topic-specific crawler based on topics specified by the user. The carawler will save also the images presented in the webpage using a unique hash number for each page. The topic classification of the content is based on cosine similarity between the BERT embedding of the content and the provided labels (based on [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)) . 
+# BERT Based Topic-Specific Crawler
+
+This paper presents a multi-thread web crawler using a Sentence Bidirectional Encoder Representations from Transformers ([S-BERT]((https://arxiv.org/abs/1908.10084))). The S-BERT is used to calculate the similarity between the predefined classes and the text of the downloaded web pages.
 
 ![image](https://user-images.githubusercontent.com/1148381/124077128-cfe38c80-da4f-11eb-97e1-158e5aae7d36.png)
 
+## Authors
+
+* Yahya Tawil.
+* [Dr. Saed ALQARALEH](https://scholar.google.com.tr/citations?user=Pz8eE28AAAAJ&hl=en).
+
+## Organization
 
 This Repo is organized like the following: 
 
@@ -15,3 +22,4 @@ This Repo is organized like the following:
 # Instructions
 
 To run the code, use downloader_V_0_10.ipynb and run it directly in Google colab. Make sure to select the right settings by changing the `conf` dictonary in the code.  
+
