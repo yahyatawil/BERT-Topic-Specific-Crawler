@@ -13,11 +13,11 @@ This paper presents a multi-thread web crawler using a Sentence Bidirectional En
 
 This Repo is organized like the following: 
 
-* Code: inside this folder there are `downloader_V_0_10.ipynb` which is the crawler code written and tested using Google Colab and also `evaluator.ipynb` which is a simple code to evaluate the results (in form of csv file) of crawler (calculate the true positives and false positive for each topic)
+* Code: inside this folder there are `downloader_V_0_10.ipynb` which is the crawler code written and tested using Google Colab and also `evaluator.ipynb` which is a simple code to evaluate the results (inform of csv file) of crawler (calculate the true positives and false positives for each topic)
 
 * Report: A report in both PDF and Latex source. 
 
-* Results: CSV files as an examples of output after running the code for hours. 
+* Results: CSV files as an examples of an output after running the code for hours. 
 
 # Instructions
 
