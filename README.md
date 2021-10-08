@@ -9,6 +9,10 @@ This paper presents a multi-thread web crawler using a Sentence Bidirectional En
 * Yahya Tawil.
 * [Dr. Saed ALQARALEH](https://scholar.google.com.tr/citations?user=Pz8eE28AAAAJ&hl=en).
 
+
+## ASYU 2021 Conferance Paper Presentation 
+Available on [Youtube](https://youtu.be/5r8Snv5E_Vk).
+
 ## Organization
 
 This Repo is organized like the following: 
