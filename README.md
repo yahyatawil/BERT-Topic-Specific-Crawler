@@ -27,3 +27,16 @@ This Repo is organized like the following:
 
 To run the code, use downloader_V_0_10.ipynb and run it directly in Google colab. Make sure to select the right settings by changing the `conf` dictonary in the code.  
 
+# Cite This 
+
+```
+@INPROCEEDINGS{9599076,
+  author={Tawil, Yahya and Alqaraleh, Saed},
+  booktitle={2021 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
+  title={BERT Based Topic-Specific Crawler}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ASYU52992.2021.9599076}}
+```
